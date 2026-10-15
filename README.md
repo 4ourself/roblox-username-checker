@@ -5,6 +5,8 @@
 Checks roblox usernames and prints the result in the terminal:
 taken names in red, free names in green. Every free name is saved to `available.txt`.
 
+![Title screen](.core/main.png)
+
 ## usage
 
 1. install **python 3.8+** - tick `Add python.exe to PATH` in the installer
@@ -17,10 +19,7 @@ Nothing is installed when they are already there.
 
 Example output:
 
-```
-[taken] csj1
-[available] bu20
-```
+![if ykyk](.core/work.png)
 
 ## types
 
